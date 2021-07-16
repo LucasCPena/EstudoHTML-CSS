@@ -98,4 +98,17 @@ li, a{
     font-weight: 1000;
 }
 
+.conquista{
+    margin-left: 600px;
+    display: inline-block;
+    font-weight: 500;
+    font-style: oblique;
+    font-size: larger;
+}
 
+.textoHistoria{
+    margin-top: 100px;
+    margin-left: 650px;
+    font-weight: 1000;
+
+}
