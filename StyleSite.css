@@ -125,21 +125,7 @@ li, a{
     margin-bottom: 20px;
 }
 
-.footer{
-    background-color:rgb(128, 130, 230);   
+.box{
+    display: flex;    
 }
 
-.footer ul{
-    margin-top: 0;
-    margin-bottom: 0;
-   background-color: rgb(128, 130, 230) ;
-}
-
-.footer li a{
-    padding: 0px;
-    margin-left: 430px;
-    text-decoration: solid;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    
-    
-}
