@@ -126,6 +126,9 @@ li, a{
 }
 
 .box{
-    display: flex;    
-}
+    background-color: brown;
+    display:flex;      
+    justify-content:center;
+         
+    }
 
